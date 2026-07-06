@@ -1,0 +1,16 @@
+Compartment,Tissue,n_cells,mean_log2,median_log2,pct_expressing
+All T cells,Blood,4260,0.427,0.0,16.9
+All T cells,Normal,2115,1.088,0.0,32.5
+All T cells,Tumor,5835,1.957,0.12,50.2
+CD8,Blood,1323,0.48,0.0,17.8
+CD8,Normal,934,1.055,0.0,35.1
+CD8,Tumor,2182,2.137,0.177,53.1
+CD4 helper,Blood,1254,0.445,0.0,17.6
+CD4 helper,Normal,655,1.199,0.0,34.2
+CD4 helper,Tumor,1591,1.938,0.0,46.6
+Treg,Blood,849,0.346,0.0,16.6
+Treg,Normal,149,1.486,0.0,34.9
+Treg,Tumor,1100,1.671,0.14,50.8
+CD4 other,Blood,672,0.382,0.0,15.9
+CD4 other,Normal,238,1.103,0.0,30.7
+CD4 other,Tumor,892,1.952,0.171,50.7
